@@ -10,7 +10,7 @@ An app to keep track of your fitness activities
 * [Install](#install)
 
 ## General info
-This application uses a noSQL MongoDB database to store workout history organized by the amount of exercise per day over the past seven days. A dashboard provides daily comparison of the duration and type of exercise ove the past 7 days of activity. The form allows you to add a cardio or resistance workout.
+This application uses a noSQL MongoDB database to store workout history organized by the amount of exercise per day over the past seven days. A dashboard provides daily comparison of the duration and type of exercise ove the past 7 days of activity. The new exercise form allows you to add a cardio or resistance workout.
 	
 ## Technologies
 Project is created with:
@@ -29,8 +29,7 @@ To install locally, download the repository. Make sure you have node.js installe
 To fill in a sample database.
 
 ``` npm run seed```
-
-Open the 'connection.js' file in the 'config' folder and change the password. 
+ 
 To start the application
 
 ``` npm start``` 
