@@ -26,7 +26,7 @@ To install locally, download the repository. Make sure you have node.js installe
 
 ``` npm install ``` 
 
-Open your MySQL Workbench and run the 'schema.sql' and the 'seeds'sql' file located in the 'db' folder.
+To fill in a sample database.
 
 ``` npm run seed```
 
