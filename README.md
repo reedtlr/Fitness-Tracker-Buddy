@@ -1,4 +1,4 @@
-# Fitness-Tracker-Buddy
+# fitness-tracker-with-mongoDB
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 (https://shielded-ocean-64027.herokuapp.com/)
